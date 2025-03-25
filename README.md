@@ -56,7 +56,7 @@ All work is copyright of its original owners. GTA-V is a registered trademark of
 
 If you have any questions or suggestions, feel free to reach out to us:
 
-- [Discord Server](https://discord.gg/PTEVR9gjYY)
+- [Discord Server](https://discord.gg/ucqRJnzqfM)
     - Server Owners/Founders: OnyxX and Shiloh
  
       
