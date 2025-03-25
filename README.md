@@ -42,9 +42,7 @@ The roadmap includes both completed and future goals. Here&#39;s what we have ac
   - [ ] Fix FiveGuard AI-banning to prevent false positives.
   - [ ] Finish rebalancing player economy and shop prices.
   - [ ] Finish deconflict between the varying player job scripts.
-  - [X] Set up Tebex donation store for high-powered weapons and cars.
-  - [X] Set up monthly Tebex subscriptions for player-owned houses.
-  - [X] Set up Tebex donations to start a company or gang.
+  - [X] Set up Tebex donation store for high-powered weapons and cars, with monthly subscription options.
 - [ ] Hire streamers to advertise the community.
 
 
